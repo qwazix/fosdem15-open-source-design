@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400px"
+   height="300px"
+   viewBox="0 0 400 300"
+   id="svg25923"
+   version="1.1"
+   inkscape:version="0.48+devel+osxmenu r12782"
+   sodipodi:docname="test.svg">
+  <metadata
+     id="metadata25939">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs25937" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1225"
+     inkscape:window-height="755"
+     id="namedview25935"
+     showgrid="false"
+     inkscape:zoom="0.78666667"
+     inkscape:cx="200"
+     inkscape:cy="150"
+     inkscape:window-x="55"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer16" />
+  <desc
+     id="desc25925">This example uses the 'switch' element to provide a 
+        fallback graphical representation of a paragraph, if 
+        XHTML is not supported.</desc>
+  <!-- The 'switch' element will process the first child element
+       whose testing attributes evaluate to true.-->
+  <g
+     inkscape:groupmode="layer"
+     id="layer16"
+     inkscape:label="Layer 1">
+    <switch
+       transform="translate(169.39163,128.89466)"
+       id="switch25927">
+      <!-- Process the embedded XHTML if the requiredExtensions attribute
+         evaluates to true (i.e., the user agent supports XHTML
+         embedded within SVG). -->
+      <foreignObject
+         width="100"
+         height="50"
+         requiredExtensions="http://www.w3.org/1999/xhtml">
+        <!-- XHTML content goes here -->
+        <xhtml:body>
+          <xhtml:iframe src="http://localhost:4747/jsfs.html"></xhtml:iframe>
+        </xhtml:body>
+      </foreignObject>
+      <!-- Else, process the following alternate SVG.
+         Note that there are no testing attributes on the 'text' element.
+         If no testing attributes are provided, it is as if there
+         were testing attributes and they evaluated to true.-->
+      <text
+         style="font-size:100px;font-family:'Open Sans'"
+         font-size="100"
+         id="text25929">
+        <tspan
+           x="10"
+           y="20"
+           id="tspan25933">loading...</tspan>
+      </text>
+    </switch>
+  </g>
+</svg>
