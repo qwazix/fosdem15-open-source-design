@@ -650,8 +650,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.30136555"
-     inkscape:cx="1243.7444"
-     inkscape:cy="772.10034"
+     inkscape:cx="1031.3778"
+     inkscape:cy="-203.45906"
      inkscape:document-units="px"
      inkscape:current-layer="layer9"
      showgrid="false"
@@ -4442,8 +4442,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="kittens!!"
-     style="display:inline">
+     inkscape:label="cars"
+     style="display:none">
     <path
        style="fill:#ffcc00;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 1457.5612,-86.485848 554.445,0 0,1233.860148 -793.8244,0 253.4605,-1233.860148 z"
@@ -5334,7 +5334,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="bazaar"
-     style="display:none">
+     style="display:inline">
     <path
        style="fill:#00aa00;fill-rule:evenodd"
        d="m 1594.2857,51.428587 14.2857,108.571423 -82.8571,14.28572 8.5714,117.14285 -80,17.14286 17.1428,125.71428 42.8572,14.28572 8.5714,82.85714 -68.5714,11.42857 5.7143,134.28571 134.2857,-5.71428 -2.8572,77.14285 -54.2857,2.85715 5.7143,74.28571 -165.7143,2.85714 -8.5714,174.28567 160,34.2858 37.1429,85.7142 385.7142,8.5715 11.4286,-1151.428584 -254.2857,2.857143 -22.8571,48.571428 z"
@@ -5459,7 +5459,7 @@
            style="font-size:50px" /></flowRegion><flowPara
          id="flowPara10019">We talked about dictatorship. OSS is all about freedom: can this work?</flowPara><flowPara
          id="flowPara10876" /><flowPara
-         id="flowPara10878">Company-led open source projects, and source-over-wall projects are obviously not included. These kind of projects have a traditional approach to design.</flowPara><flowPara
+         id="flowPara10878">Company-led open source projects, and source-over-wall projects obviously have a traditional approach to design.</flowPara><flowPara
          id="flowPara10033" /><flowPara
          id="flowPara10035">Most pure-community projects are starving for contributors. UI is a magnet for new contributors:</flowPara><flowPara
          id="flowPara10037" /><flowPara
@@ -5732,7 +5732,7 @@
            style="font-size:50px" /></flowRegion><flowPara
          id="flowPara9978">One human, not in the sense of &quot;one man show&quot; but meaning that one human has the final word.</flowPara><flowPara
          id="flowPara10872" /><flowPara
-         id="flowPara10874">This radio, by the way, was designed by Dieter Rams, considered good design that lasted through the years.</flowPara></flowRoot>    <g
+         id="flowPara10874">This radio, by the way, was designed by Dieter Rams, is considered good design that lasted through the years.</flowPara></flowRoot>    <g
        id="g11163"
        transform="matrix(1.8248539,0,0,1.8248539,-1434.0447,-606.12024)">
       <path
